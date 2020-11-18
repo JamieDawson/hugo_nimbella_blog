@@ -95,5 +95,44 @@
       "web\\content\\posts\\my-third-post.md": "d3712c5730709501755e6c29e3b2c3377a75fcd2c05b2e145bef41f4c26adb95",
       "web\\archetypes\\default.md": "b7aae205ccd3e3b2e356d63ec0ceda07e2f73375353b8d6962899f2f68d86ef8"
     }
+  },
+  {
+    "apihost": "https://apigcp.nimbella.io",
+    "namespace": "mesatyar-yzpbtecwigu",
+    "packageVersions": {},
+    "actionVersions": {
+      "hello": {
+        "version": "0.0.15",
+        "digest": "09227d9d313f0f6f4c0e88f61cfcfcc3f9bf3d3eedce080548cd6268f750b58e"
+      }
+    },
+    "webHashes": {
+      "web/.gitmodules": "201ad61c8345cf696eca4476b0c196651ee7d5ad16d7cf4a7b6feba58f440c98",
+      "web/404.html": "7753e625f17e7e9c395b2e67be4090911474a4796d8fb1b4d168d151748772b2",
+      "web/index.html": "a966f345d2a300c1805f35425a0bdf01b1efcf1573f17622937b3fd2359808ca",
+      "web/index.xml": "ada9b3223695a672b29d189bda2a3aceb2e5c820ba0f91fcb1f3907fe0d9f482",
+      "web/sitemap.xml": "3ab18ed204ab2b8f7e6e65c2895db36efeb6758ea9b802eb255f43320bbc3705",
+      "web/tags/index.html": "de4d44749753b060c55698f8a2f6bdc1870735d39a9c43c57a3e4ee189fa2689",
+      "web/tags/index.xml": "82f42ac08a449b58c489d1bb001a0c86116aee7411d1976a150fc4fe832a607e",
+      "web/tags/page/1/index.html": "8ae05b74acf62bc47954bcb4cc33ea6dac56585b064e754df3d6794f5527e6a2",
+      "web/styles/syntax/index.scss": "f9141626317673b7ceeb1ff6ce99d52577f6da649ed93535a1983ffd55c5e24c",
+      "web/styles/site/index.scss": "7888670f60e7014b539a2ab1569cac5d51434a2493a4ceb0ce6c96599b434424",
+      "web/styles/site/style.scss": "d197f3636127d64ef0229e7f26648b4969454321faec2483ef917a665d359b94",
+      "web/posts/index.html": "22cc8f454d202b976b4f9bae6efe813898b924bc2d8ef5654a66e4a71f4d9c0a",
+      "web/posts/index.xml": "cd2cef04250806aea9a17aae770975430105163fcbf917ff5294cdcfbf67f73e",
+      "web/posts/page/1/index.html": "73c6df356c80c9be84798a3b6262de4bd3cb3fb310a8f7e40a0ed580afeae5a1",
+      "web/posts/my-third-post/index.html": "65235b59c5b2c239c1bb10098c47ec26ae7dd7a32d8f31425ada83b0d7d8179a",
+      "web/posts/my-second-post/index.html": "99b3f9b79428ef91f19a5c5527e73644a972968efbf1eca876abc79cdd8ecc19",
+      "web/posts/my-first-post/index.html": "8753955acf260432c4b57ddf9b823b055772d43a9ef77e4517381b20aa6de428",
+      "web/page/1/index.html": "7b064a452a5521e7924c20fb711d922add2aecd265d8605cf6904fe92310a203",
+      "web/js/jquery-1.11.3.min.js": "ecb916133a9376911f10bc5c659952eb0031e457f5df367cde560edbfba38fb8",
+      "web/js/jquery.fitvids.js": "b9dcd703ec4de02c9fb966af531c0cd55e0931e440df7d29a6cb67e3d33afd3e",
+      "web/js/scripts.js": "5c294ed49088965ec0ab8d2ef8030968fb8cd827cd15ff9f44befecc884a85c5",
+      "web/dist/site.css": "4b3caa65e59425bf1ef62c7f85b20cc1c3a9f87040354e7af227ad3af7c88250",
+      "web/dist/syntax.css": "a8a570284bd1d8bddcca59eaf71586bb231ea711926dfbeae5468eb7d5b4ec2c",
+      "web/categories/index.html": "51957281102f71d0adfd2aa459a06dad6df049cc1dd0a77444e0e82884834656",
+      "web/categories/index.xml": "08eb6d81c5d8bc86863cb8c996c510eaf312557d02c8af503a3b11c0ca2e1e09",
+      "web/categories/page/1/index.html": "ba715f99c7354e600f6502b9b6d09c11f39936d42252bc20c7e07230c43997e6"
+    }
   }
 ]
