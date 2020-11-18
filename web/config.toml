@@ -2,7 +2,7 @@ baseURL = "https://jamierob-hzoysjqazdd-apigcp.nimbella.io/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ghostwriter"
-publishDir = "."
+publishDir = "web"
 
 [menu]
 
